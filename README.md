@@ -11,6 +11,18 @@ A real-time interactive simulation platform for modelling energy systems, emissi
 It models energy production, emissions, cost, reliability, and scenario-based forecasting using modern data visualization.
 
 ---
+
+## 🖼️ Preview
+
+<p align="center">
+  <img src="Assets/Overview-Preview.png" width="43%" />
+  <img src="Assets/Forecast-Preview.png" width="43%" /><br><br>
+  <img src="Assets/Report-Preview.png" width="40%" />
+  <img src="Assets/Uncertainty-Preview.png" width="45%" />
+</p>
+
+---
+
 ## 🌍 Live Demo
 
 👉 [https://energy-systems-simulator-kp76gyvbepypdaqvasqznc.streamlit.app/]
