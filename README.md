@@ -1,11 +1,13 @@
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 # ⚡ Energy Systems Simulator
 
-A real-time interactive energy systems simulation dashboard built with Streamlit.  
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?logo=streamlit)
+![Status](https://img.shields.io/badge/Status-Active-success?logo=github)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
+A real-time interactive simulation platform for modelling energy systems, emissions, cost, and reliability using data-driven forecasting and visualization. 
 It models energy production, emissions, cost, reliability, and scenario-based forecasting using modern data visualization.
 
 ---
