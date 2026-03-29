@@ -7,7 +7,8 @@
 
 ---
 
-A real-time interactive simulation platform for modelling energy systems, emissions, cost, and reliability using data-driven forecasting and visualization. 
+A real-time interactive simulation platform for modelling energy systems, emissions, cost, and reliability using data-driven forecasting and visualization.
+
 It models energy production, emissions, cost, reliability, and scenario-based forecasting using modern data visualization.
 
 ---
@@ -17,17 +18,18 @@ It models energy production, emissions, cost, reliability, and scenario-based fo
 <p align="center">
   <img src="Assets/Overview-Preview.png" width="43%" />
   <img src="Assets/Forecast-Preview.png" width="43%" /><br><br>
-  <img src="Assets/Report-Preview.png" width="40%" />
-  <img src="Assets/Uncertainty-Preview.png" width="45%" />
+  <img src="Assets/Report-Preview.png" width="43%" />
+  <img src="Assets/Uncertainty-Preview.png" width="43%" />
 </p>
 
 ---
 
 ## 🌍 Live Demo
 
-👉 [https://energy-systems-simulator-kp76gyvbepypdaqvasqznc.streamlit.app/]
+👉 https://energy-systems-simulator-kp76gyvbepypdaqvasqznc.streamlit.app/
 
 ---
+
 ## 📊 Features
 
 - Real-time energy system simulation
@@ -52,7 +54,6 @@ It models energy production, emissions, cost, reliability, and scenario-based fo
 ---
 
 ## 🚀 How to Run Locally
-
 ```bash
 git clone https://github.com/oez3ro/Energy-Systems-Simulator.git
 cd Energy-Systems-Simulator
@@ -64,13 +65,18 @@ pip install -r requirements.txt
 
 python3 -m streamlit run app.py
 ```
+---
+
+## 🆘 Support
+
+If you encounter any issues or have suggestions:
+
+👉 Open an issue here: https://github.com/oez3ro/Energy-Systems-Simulator/issues
 
 ---
 
-# ✨ FOOTER
-
 ## 👤 Author
 
-Built by Ooreoluwanimi E. Moronkeji
+Built by **Ooreoluwanimi E. Moronkeji**
 
 GitHub: https://github.com/oez3ro
