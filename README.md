@@ -60,4 +60,5 @@ python3 -m streamlit run app.py
 ## 👤 Author
 
 Built by Ooreoluwanimi E. Moronkeji
+
 GitHub: https://github.com/oez3ro
