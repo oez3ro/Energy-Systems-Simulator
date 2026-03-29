@@ -54,9 +54,8 @@ python3 -m streamlit run app.py
 
 ---
 
-# ✨ STEP 6 — FOOTER
+# ✨ FOOTER
 
-```md
 ## 👤 Author
 
 Built by Ooreoluwanimi E. Moronkeji
