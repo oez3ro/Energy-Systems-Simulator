@@ -11,7 +11,11 @@ A real-time interactive simulation platform for modelling energy systems, emissi
 It models energy production, emissions, cost, reliability, and scenario-based forecasting using modern data visualization.
 
 ---
+## 🌍 Live Demo
 
+👉 [https://energy-systems-simulator-kp76gyvbepypdaqvasqznc.streamlit.app/]
+
+---
 ## 📊 Features
 
 - Real-time energy system simulation
@@ -19,7 +23,7 @@ It models energy production, emissions, cost, reliability, and scenario-based fo
 - Reliability scoring system
 - Monte Carlo uncertainty modelling
 - Forecasting & trend visualization
-- Interactive dashboards powered by Streamlit
+- Interactive Streamlit dashboards
 - Exportable reports (PDF support)
 
 ---
@@ -37,7 +41,23 @@ It models energy production, emissions, cost, reliability, and scenario-based fo
 
 ## 🚀 How to Run Locally
 
-### 1. Clone the repository
 ```bash
 git clone https://github.com/oez3ro/Energy-Systems-Simulator.git
 cd Energy-Systems-Simulator
+
+python3 -m venv venv
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+python3 -m streamlit run app.py
+
+---
+
+# ✨ STEP 6 — FOOTER
+
+```md
+## 👤 Author
+
+Built by Ooreoluwanimi E. Moronkeji
+GitHub: https://github.com/oez3ro
